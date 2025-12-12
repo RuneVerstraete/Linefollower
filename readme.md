@@ -19,9 +19,9 @@ batteries: 2x 18650 batterijen
 
 wireless communication: HC05
 
-distance sensor - motors: /
+distance sensor - motors: 7.5 cm
 
 weight: /
 
-speed: /
+speed: 0.17 m/s
 
